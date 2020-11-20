@@ -1,4 +1,4 @@
-import App from './classes/App.js';
+import App from "./classes/App.js";
 
-// eslint-disable-nextline
+// eslint-disable-next-line no-unused-vars
 const app = new App();
