@@ -1,0 +1,27 @@
+{
+  "name": "webpack-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinandros/webpack-practice.git"
+  },
+  "author": "Kevin Alvarado V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinandros/webpack-practice/issues"
+  },
+  "homepage": "https://github.com/vinandros/webpack-practice#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "babel-loader": "^8.2.1",
+    "webpack": "^5.6.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
